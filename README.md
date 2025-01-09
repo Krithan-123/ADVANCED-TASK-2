@@ -25,3 +25,6 @@
 -  **Input Handling and User Interaction:** Helps for the effective interaction between the user and the Chatbot .
 -  **Dynamic Knowledge Update:** Allows for the chatbot to produce the response based on the user input.
 -  **classes:** Functionalities of the chatbot are organized into a class
+
+  ![output 2](https://github.com/user-attachments/assets/f4178160-d970-4560-a509-d19361bc7e50)
+
